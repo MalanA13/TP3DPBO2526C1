@@ -1,0 +1,16 @@
+# C++ build output
+CPP/Program/main
+CPP/Program/*.o
+CPP/Program/*.out
+
+# Java build output
+Java/Program/*.class
+
+# Python cache
+Python/Program/__pycache__/
+Python/Program/*.py[cod]
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
